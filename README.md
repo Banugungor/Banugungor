@@ -1,12 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=banugungor)](https://git.io/streak-stats)
-<!--
-**Banugungor/Banugungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats)
-Here are some ideas to get you started:
-
-![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
+![Banu's GitHub stats](https://github-readme-stats.vercel.app/api?username=banugungor&show_icons=true&theme=transparent)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
