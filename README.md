@@ -1,8 +1,4 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=banugungor)](https://git.io/streak-stats)
-<!--
-**Banugungor/Banugungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
