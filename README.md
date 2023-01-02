@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banugungor)](https://github.com/banugungor/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-banugungor)
+![](https://komarev.com/ghpvc/?username=your-github-banugungor&color=orange)
