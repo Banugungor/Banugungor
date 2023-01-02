@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banugungor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Banu's GitHub stats](https://github-readme-stats.vercel.app/api?username=banugungor&count_private=true)
 ![Banu's GitHub stats](https://github-readme-stats.vercel.app/api?username=banugungor&show_icons=true&theme=radical)
 - 🔭 I’m currently working on ...
