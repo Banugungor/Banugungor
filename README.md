@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Banu's GitHub stats](https://github-readme-stats.vercel.app/api?username=banugungor&show_icons=true&theme=transparent)
-https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,3 +10,10 @@ https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=banugungor)](https://git.io/streak-stats)
+<!--
+**Banugungor/Banugungor** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats)
+Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
