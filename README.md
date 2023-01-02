@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
+![](https://komarev.com/ghpvc/?username=banugungor)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
