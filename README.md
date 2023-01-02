@@ -4,7 +4,7 @@
 **Banugungor/Banugungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats)
 Here are some ideas to get you started:
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banugungor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Banu's GitHub stats](https://github-readme-stats.vercel.app/api?username=banugungor&count_private=true)
