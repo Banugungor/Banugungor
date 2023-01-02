@@ -5,7 +5,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats)
 Here are some ideas to get you started:
 
-![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
 
 
 - 🔭 I’m currently working on ...
