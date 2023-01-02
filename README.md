@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=banugungor)](https://github.com/banugungor/github-readme-stats)
 ![](https://komarev.com/ghpvc/?banugungor=your-github-banugungor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banugungor&layout=compact)](https://github.com/banugungor/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
