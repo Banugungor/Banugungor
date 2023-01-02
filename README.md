@@ -7,9 +7,6 @@
 -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=banugungor)](https://git.io/streak-stats)
-<!--
-**Banugungor/Banugungor** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats)
 
 
