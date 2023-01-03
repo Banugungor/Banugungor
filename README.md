@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banugungor)](https://github.com/banugungor/github-readme-stats)
 
-<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=banugungor)](https://git.io/streak-stats)
 
 
