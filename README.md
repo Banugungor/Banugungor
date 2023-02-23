@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning Javascript, HTML, Css
+- 🌱 I’m currently learning Javascript, HTML, Css, React
 - 📫 How to reach me: banuuzun9@gmail.com
 --> 
 
